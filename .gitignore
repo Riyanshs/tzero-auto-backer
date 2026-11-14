@@ -1,6 +1,7 @@
 .env
 *.json
 !whitelist.example.json
+!metadata/*.json
 __pycache__/
 *.pyc
 state.json
