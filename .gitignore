@@ -2,6 +2,7 @@
 *.json
 !whitelist.example.json
 !metadata/*.json
+!demo/trades.json
 __pycache__/
 *.pyc
 state.json
